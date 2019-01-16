@@ -8,47 +8,49 @@ front: true
 
 {%
     include profile-pic.html
-    img="/img/me-2.jpg"
+    img="/img/me-1.jpg"
 %}
 
-I am a Computer Science PhD student at the University of Florida advised by [Dr. Sanjay Ranka](https://sites.google.com/site/sanjayranka/). Currently, I am a research assistant in UF's [Transportation Institute](http://www.transportation.institute.ufl.edu/). My research interests are motivated by a desire to understand human intelligence and develop machines that can learn like us. Lately, I've been working on problems that lie at the intersection of **multi-object tracking**, **combinatorial optimization**, and **reinforcement learning**.
+I am a lazy man. Just it.
+**Motto**: One can only wakeup from a dream once
 
-I'm also a [McKnight Fellow](http://fefonline.org/mdf.html); the McKnight Doctoral Fellowship program aims to address the under-representation of African American and Hispanic faculty in the state of Florida. I'm always looking for ways in which I can better promote diversity and inclusivity in the field of computing. 
+## Education
 
-Here's my [CV](pdfs/cv.pdf).
+* **Beijing University of Aeronautics and Astronautics -- BUAA**
+    * Master, 2011.9 - 2014.1
+    * Software Engineering
+* **QingDao University**
+    * Bachelor, 2007.9 - 2011.7
+    * electronic information
 
-## Latest Publications
+## Experience
 
-See my CV for a complete list.
+* **Phoenix New Media Ltd. - ifeng.com**
+    * Apr 2017 - present
+    * Beijing City, China
+    * Image Processing/ML/DL/CV
+    * TeamLeader
+* **Beijing Zenointel**
+    * Dec 2012 - Apr 2017
+    * Beijing City, China
+    * Image Processing/DL/CV
+    * SDE
+* **Samsung Advanced Institute of Technology--SAIT**
+    * Oct 2012 - Dec 2012
+    * Worked as an intern on image processing
+* **SONY China Research Lab**
+    * Dec 2011 - Jun 2012
+    * Worked as an intern on image processing
 
-* **Learning Permutations with Sinkhorn Policy Gradient**
-    * Patrick Emami, Sanjay Ranka. Submitted to NIPS 2018. [[arxiv]](https://arxiv.org/abs/1805.07010)[[code]](https://github.com/pemami4911/sinkhorn-policy-gradient.pytorch)
-* **Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking**
-    * Patrick Emami, Panos M. Pardalos, Lily Elefteriadou, Sanjay Ranka. Submitted to ACM Computing Surveys, 2018. [[arxiv](https://arxiv.org/abs/1802.06897v1)]
-* **Tracking Vehicles Equipped with Dedicated Short-Range Communication at Traffic Intersections**
-    * Patrick Emami, Lily Elefteriadou, Sanjay Ranka. Seventh ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks and Applications (DIVANet’17), 2017. [[PDF]](pdfs/tracking-vehicles-equipped-with-dsrc.pdf)
-* **POMDPy: An Extensible Framework for Implementing POMDPs in Python**
-    * Patrick Emami, Alan Hamlet, Carl Crane. 2015. [[PDF](pdfs/pomdpy-extensible-framework.pdf)][[code](https://github.com/pemami4911/POMDPy)]
+## Patents
 
-## Posters
+* **一种人流量统计的方法 [[link](http://www.soopat.com/Patent/201610689649)]**
+* **图像中条纹干扰的检测方法和装置 [[link](http://www.soopat.com/Patent/201310432482)]**
+* **用于图像序列增强的方法和装置 [[link](http://www.soopat.com/Patent/201310432571)]**
+* **图像的追踪方法和装置 [[link](http://www.soopat.com/Patent/201410857059)]**
 
-* **A Demonstration of Fusing DSRC and Radar for Optimizing Intersection Performance**
-    * Patrick Emami, Mahmoud Pourmehrab, Lily Elefteriadou, Sanjay Ranka, Carl Crane. Automated Vehicles Symposium (AVS), 2017. [[Abstract](pdfs/AUVSI 2017 Abstract.pdf)]
 
-## Presentations
-
-* **Machine Learning in Intelligent Transportation Systems**
-  * UF Informatics Institute Student Data Analysis Seminar. September 6th, 2018. [[Slides](pdfs/ml-in-its.pdf)]
-* **Deep Reinforcement Learning: An Overview**
-    * UF Informatics Institute Student Data Analysis Seminar. February 23rd, 2018. [[Slides](pdfs/slides-deep-reinforcement.pdf)]
-* **Introduction to Deep Learning**
-    * UF Informatics Institute Student Data Analysis Seminar. September 7th, 2017. [[Slides](pdfs/deep-learning.pdf)]
-<br>
-
-{%
-    include image.html
-    img="/img/me.jpg"
-    caption="As a researcher, either you won’t understand something and you will feel stupid and like a worm, or you will understand something and think it’s too trivial and hence still feel like a worm - Simon Peyton Jones"
-%}
-
-Contact me at: pemami at ufl dot edu.
+## 
+**Contact me at**
+   * [linkedin](https://www.linkedin.com/in/kang-zhou-83908848/)
+   * lovekissy7@gmail.com
