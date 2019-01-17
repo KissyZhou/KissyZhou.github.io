@@ -7,8 +7,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://KissyZhou.github.io" # the base hostname & protocol for your site
 github_username:  KissyZhou
 
-# Build settings
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
 
 # Gitalk
 gitalk:

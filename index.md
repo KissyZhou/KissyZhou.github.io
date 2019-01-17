@@ -12,8 +12,9 @@ front: true
 %}
 
 I am a lazy man. Just it.
-**Motto**: One can only wakeup from a dream once
-
+<b>
+"You can only wake up once from a dream." -- CSI
+</b>
 ## Education
 
 * **Beijing University of Aeronautics and Astronautics -- BUAA**
