@@ -1,7 +1,7 @@
 # Site settings
-title: Patrick Emami
+title: KZhou's blog
 description: > # this means to ignore newlines until "baseurl:"
-  My summaries of Machine Learning papers and investigations into various topics concerning artificial intelligence
+  My summaries of Machine Learning/Computer Vision and Application. Mainly concerning artificial intelligence
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://KissyZhou.github.io" # the base hostname & protocol for your site
