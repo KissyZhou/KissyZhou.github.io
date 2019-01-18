@@ -10,12 +10,11 @@ front: true
     include profile-pic.html
     img="/img/me-1.jpg"
 %}
-<br>
+
 I am a lazy man. Just it.
-<br>
-<b>
-"You can only wake up once from a dream." -- CSI
-</b>
+
+<b>"You can only wake up once from a dream." -- CSI</b>
+
 ## Education
 
 * **Beijing University of Aeronautics and Astronautics -- BUAA**
