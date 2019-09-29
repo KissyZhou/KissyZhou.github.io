@@ -49,6 +49,8 @@ I am a lazy man. Just it.
 * **图像中条纹干扰的检测方法和装置 [[link](http://www.soopat.com/Patent/201310432482)]**
 * **用于图像序列增强的方法和装置 [[link](http://www.soopat.com/Patent/201310432571)]**
 * **图像的追踪方法和装置 [[link](http://www.soopat.com/Patent/201410857059)]**
+* **一种人头检测的方法 [[link](http://www.soopat.com/Patent/201610689364?lx=FMSQ)]**
+* **基于Hough变换的人头检测方法 [[link](http://www.soopat.com/Patent/201610689381)]**
 
 
 ## 
